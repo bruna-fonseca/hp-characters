@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  color: white;
+}
+
+.card-item {
+  width: 250px;
+  background-color: #946B2D;
+  margin: 10px;
+}
